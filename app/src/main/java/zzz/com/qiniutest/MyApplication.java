@@ -8,7 +8,6 @@ public class MyApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        //获取全局上下文
         mContext = getApplicationContext();
     }
 
