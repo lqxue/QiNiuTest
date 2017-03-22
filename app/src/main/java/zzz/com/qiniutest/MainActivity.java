@@ -107,7 +107,7 @@ public class MainActivity extends AppCompatActivity {
 
     //获取资源文件中的图片
     public byte[] getByte() {
-        Resources res = MyApplication.getContext().getResources();
+        Resources res = getResources();
         Bitmap bm = BitmapFactory.decodeResource(res, R.mipmap.ic_launcher);
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
         bm.compress(Bitmap.CompressFormat.JPEG, 80, baos);
