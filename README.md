@@ -48,5 +48,3 @@
 ![](http://wiki.ducetech.com/content/images/2017/03/QQ--20170322112407.jpg)
 ###### 7,最后上传
 ![](http://wiki.ducetech.com/content/images/2017/03/QQ--20170322112617.jpg)
-
-###### 最后附上 [GitHub地址](https://github.com/qingxuedev/QiNiuTest)
