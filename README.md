@@ -39,7 +39,7 @@
       android:name="android.permission.READ_EXTERNAL_STORAGE" />
 ```
 ###### 3,初始化七牛文件上传管理器
-![](http://wiki.ducetech.com/content/images/2017/03/QQ--20170322111930.jpg)
+![](http://wiki.ducetech.com/content/images/2017/03/QQ--20170322111930-2.jpg)
 ###### 4,获取token
 ![](http://wiki.ducetech.com/content/images/2017/03/QQ--20170322112125.jpg)
 ###### 5,定义数据上传结束后的处理动作
