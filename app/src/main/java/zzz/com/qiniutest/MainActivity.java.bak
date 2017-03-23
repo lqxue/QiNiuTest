@@ -52,7 +52,6 @@ public class MainActivity extends AppCompatActivity {
         btSure = (Button) findViewById(R.id.button);
         btCancel = (Button) findViewById(R.id.button2);
         btSure.setOnClickListener(new View.OnClickListener() {
-			//jdfij
             @Override
             public void onClick(View view) {
                 uploadImage();
