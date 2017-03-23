@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         try {
-            //上传图片
+            //上传图片jjj
             QiNiuInitialize.getSingleton().put(getByte(), key, getUpToken(), upCompletionHandler, uploadOptions);
         } catch (Exception e) {
             e.printStackTrace();
